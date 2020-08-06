@@ -2359,6 +2359,20 @@
           "bin/placeholder/Common.dll": {}
         }
       },
+      "DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Persistence.Database": "1.0.0",
+          "Repositories": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccess.dll": {}
+        }
+      },
       "Dtos/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -7848,6 +7862,11 @@
       "path": "../Common/Common.csproj",
       "msbuildProject": "../Common/Common.csproj"
     },
+    "DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../DataAccess/DataAccess.csproj",
+      "msbuildProject": "../DataAccess/DataAccess.csproj"
+    },
     "Dtos/1.0.0": {
       "type": "project",
       "path": "../Dtos/Dtos.csproj",
@@ -7871,6 +7890,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "DataAccess >= 1.0.0",
       "MSTest.TestAdapter >= 2.1.0",
       "MSTest.TestFramework >= 2.1.0",
       "Microsoft.EntityFrameworkCore.InMemory >= 3.1.6",
@@ -7913,6 +7933,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
+            "D:\\Projects\\Tests\\Employees\\employee.api\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\Projects\\Tests\\Employees\\employee.api\\DataAccess\\DataAccess.csproj"
+            },
             "D:\\Projects\\Tests\\Employees\\employee.api\\Persistence.Database\\Persistence.Database.csproj": {
               "projectPath": "D:\\Projects\\Tests\\Employees\\employee.api\\Persistence.Database\\Persistence.Database.csproj"
             },

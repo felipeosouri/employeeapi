@@ -61,6 +61,70 @@
         }
       }
     },
+    "D:\\Projects\\Tests\\Employees\\employee.api\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Tests\\Employees\\employee.api\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "D:\\Projects\\Tests\\Employees\\employee.api\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Felipeosouri\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Tests\\Employees\\employee.api\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Felipeosouri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Projects\\Tests\\Employees\\employee.api\\Persistence.Database\\Persistence.Database.csproj": {
+                "projectPath": "D:\\Projects\\Tests\\Employees\\employee.api\\Persistence.Database\\Persistence.Database.csproj"
+              },
+              "D:\\Projects\\Tests\\Employees\\employee.api\\Repositories\\Repositories.csproj": {
+                "projectPath": "D:\\Projects\\Tests\\Employees\\employee.api\\Repositories\\Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "D:\\Projects\\Tests\\Employees\\employee.api\\Dtos\\Dtos.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -344,6 +408,9 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
+              "D:\\Projects\\Tests\\Employees\\employee.api\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\Projects\\Tests\\Employees\\employee.api\\DataAccess\\DataAccess.csproj"
+              },
               "D:\\Projects\\Tests\\Employees\\employee.api\\Persistence.Database\\Persistence.Database.csproj": {
                 "projectPath": "D:\\Projects\\Tests\\Employees\\employee.api\\Persistence.Database\\Persistence.Database.csproj"
               },
