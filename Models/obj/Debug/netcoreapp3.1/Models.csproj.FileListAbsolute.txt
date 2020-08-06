@@ -1,0 +1,15 @@
+D:\Projects\Tests\employee.api\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+D:\Projects\Tests\employee.api\Models\bin\Debug\netcoreapp3.1\Models.dll
+D:\Projects\Tests\employee.api\Models\bin\Debug\netcoreapp3.1\Models.pdb
+D:\Projects\Tests\employee.api\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+D:\Projects\Tests\employee.api\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+D:\Projects\Tests\employee.api\Models\obj\Debug\netcoreapp3.1\Models.dll
+D:\Projects\Tests\employee.api\Models\obj\Debug\netcoreapp3.1\Models.pdb
+D:\Projects\Tests\Employees\employee.api\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+D:\Projects\Tests\Employees\employee.api\Models\bin\Debug\netcoreapp3.1\Models.dll
+D:\Projects\Tests\Employees\employee.api\Models\bin\Debug\netcoreapp3.1\Models.pdb
+D:\Projects\Tests\Employees\employee.api\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
+D:\Projects\Tests\Employees\employee.api\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+D:\Projects\Tests\Employees\employee.api\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+D:\Projects\Tests\Employees\employee.api\Models\obj\Debug\netcoreapp3.1\Models.dll
+D:\Projects\Tests\Employees\employee.api\Models\obj\Debug\netcoreapp3.1\Models.pdb
